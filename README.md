@@ -1,4 +1,4 @@
-The Least Vexing C++ Course                                                                                           
+# The Least Vexing C++ Course                                                                                           
 This course (under construction) is my effort to teach others and myself about the intricacies of the C++ programming language. It is arranged in byte-size tutorials.
 Anyone can benefit from this course, but it is meant for programmers that have some introductory experience in another language and are looking to learn C++.
 I welcome you here, and I hope you enjoy!                                                                               
