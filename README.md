@@ -14,7 +14,7 @@ Lessons are given one or more tags to help with studying focused topics. To find
 tag, the tag menu is available in the main menu to allow for filtering by tag instead of navigating the tree.           
 
 ## Byte-Sized Lessons
-These lessons are meant to impart some sort of key information per lesson in a small lesson format. They aren't geared for complete beginners,
+These lessons are meant to impart some sort of key information on the reader per lesson in a small lesson format. They aren't geared for complete beginners,
 so general knowledge of language-agnostic basics (functions/methods, loops, if/else, integers, floats) is assumed.
 A tactic that helped me learn was to read a lesson a couple times per day. At the end of the day, without viewing it, I then quiz myself
 and try to remember the entire small lesson.
